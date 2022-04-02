@@ -19,6 +19,9 @@ public class TC001 {
         }
         System.out.println(str);
         System.out.println("Suan yedek uzerindeiym");
+
+        String stra="Ferhat";
+        System.out.println(stra);
     }
 
 }
