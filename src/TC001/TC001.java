@@ -14,6 +14,10 @@ public class TC001 {
         str.add(1,"007");
         System.out.println(str);
 
+        for (int i = 0; i < str.size() ; i++) {
+            str.remove(i);
+        }
+        System.out.println(str);
     }
 
 }
