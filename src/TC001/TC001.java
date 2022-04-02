@@ -18,6 +18,7 @@ public class TC001 {
             str.remove(i);
         }
         System.out.println(str);
+        System.out.println("Suan yedek uzerindeiym");
     }
 
 }
