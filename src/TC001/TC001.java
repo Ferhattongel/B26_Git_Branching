@@ -22,6 +22,7 @@ public class TC001 {
 
         String stra="Ferhat";
         System.out.println(stra);
+        System.out.println("FERHAT TONG?EL");
     }
 
 }
